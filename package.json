@@ -1,15 +1,10 @@
 {
-  "name": "nko2015-entry",
-  "version": "0.0.1",
-  "description": "Our soon to be awesome entry for NKO2015. Let's make something amazing.",
-  "author": "Node Knockout Team <all@nodeknockout.com>",
-  "main": "./app.js",
-  "dependencies": {
-    "express": "3.x.x"
-  },
-  "scripts": {
-    "start": "node app.js",
-    "postinstall": "node scripts/postinstall.js"
-  }
-
+    "name": "Torch",
+    "version": "0.0.1",
+    "description": "Secure Chatting",
+    "author": "Edgar Aroutiounian<edgar.factorial@gmail.com>, Gina Marie Maini <drawGinadraw@gmail.com>",
+    "main": "torch_main.js",
+    "dependencies": {
+	"electron-prebuilt": "^0.34.3"
+    }
 }
